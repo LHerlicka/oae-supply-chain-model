@@ -6,9 +6,8 @@ This repository contains the optimization model and analysis framework developed
 
 The code, sample data, and documentation will be published after the official end of the project (estimated: June 2027).
 
-If you have questions or are interested in collaboration, please contact:
-Mail: lisa.herlicka@bwl.uni-kiel.de
-or via GitHub LHerlicka
+If you have questions or are interested in collaboration, please contact via GitHub
+
 ---
 
 ## 🔧 Requirements
