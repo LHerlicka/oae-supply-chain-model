@@ -1,9 +1,14 @@
 # oae-supply-chain-model
 
-This repository contains the optimization model and analysis framework developed as part of the [Project Name] (202X–2027). The model is implemented in Python using Gurobi and Jupyter Notebooks, and designed to assess near-optimal supply chain configurations for CO₂-neutral production pathways.
+This repository contains the optimization model and analysis framework developed in the SeaO2-CDR project (2023–2027). The model is implemented in Python using Gurobi and Jupyter Notebooks and is designed to assess supply chain networks for Ocean Alkalinity Enhancement applications. The optimization model has the objective of minimizing the investment and operational costs for a determined supply chain under a given net uptake target. 
 
 > This repository is currently private and under development. The code and data will be made public after the end of the project (planned: mid 2027).
 
+The code, sample data, and documentation will be published after the official end of the project (estimated: June 2027).
+
+If you have questions or are interested in collaboration, please contact:
+Mail: lisa.herlicka@bwl.uni-kiel.de
+or via GitHub LHerlicka
 ---
 
 ## 🔧 Requirements
